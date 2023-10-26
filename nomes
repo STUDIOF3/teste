@@ -1,1 +1,7 @@
+#include <iostream>
+#include "funcoes.h"
 
+int main(){
+    usuario();
+    return 0;
+}
